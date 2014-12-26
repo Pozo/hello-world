@@ -1,0 +1,4 @@
+dalvik register based, jvm stack based
+hashset red black tree 
+javap -c Main.class
+dx --dex --output="c:\temp\app.apk" "c:\temp\in.jar"
